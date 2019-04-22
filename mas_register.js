@@ -7,8 +7,8 @@
 
    Filename: mas_register.js
 
-   Author:  
-   Date:    
+   Author: Paige Mabbitt
+   Date: 4.22.19     
    
    Function List
    =============
@@ -27,4 +27,3 @@
 
 
 */
-
